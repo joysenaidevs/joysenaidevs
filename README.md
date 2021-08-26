@@ -6,6 +6,10 @@ Skills: HTML / CSS/ JS/ Azure Devops / C# / VsC / VS
 
 I'm a {Aluna senai informática, sou Beck-End} 
 <!--
+
+[GitHub stats](https://github.com/joysenaidevs/joysenaidevs)
+
+
 **joysenaidevs/joysenaidevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
