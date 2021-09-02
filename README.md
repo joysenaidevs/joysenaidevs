@@ -5,7 +5,7 @@ Skills: HTML / CSS/ JS/ Azure Devops / C# / VsC / VS
 
 
 I'm a {Aluna senai informática, sou Beck-End} 
-![joysenaidevs GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![joysenaidevs GitHub stats](https://github-readme-stats.vercel.app/api?username=joysenaidevs&show_icons=true&theme=radical)
 
 <!--
 
