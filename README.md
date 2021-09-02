@@ -10,8 +10,9 @@ I'm a {Aluna senai informática}
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joysenaidevs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[GitHub stats](https://github.com/joysenaidevs/joysenaidevs)
 
+[GitHub stats](https://github.com/joysenaidevs/joysenaidevs)
+/>
 
 **joysenaidevs/joysenaidevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
