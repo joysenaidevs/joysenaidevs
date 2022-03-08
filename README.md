@@ -1,10 +1,9 @@
 ### HELLO, I'AM JOYCE👋
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joysenaidevs)](https://github.com/joysenaidevs)
 
-Skills: HTML / CSS/ JS/ Azure Devops / C# / VsC / VS 
+Skills: HTML / CSS/ JS/ Azure Devops / C# / VsC / VS / SQLSERVER
 
-
-I'm a {Aluna senai informática} 
+I was a {Aluna senai informática} 
 
 ![joysenaidevs GitHub stats](https://github-readme-stats.vercel.app/api?username=joysenaidevs&show_icons=true&theme=radical)
 
